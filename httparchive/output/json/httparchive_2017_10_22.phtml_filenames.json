@@ -1,0 +1,222 @@
+
+[
+  {
+    "url": "count.phtml"
+  }, 
+  {
+    "url": "bb3,basket,basic,item.phtml;bb3,basket,basic,list.phtml;bb3,user-status.phtml;bb3,modal.phtml;bb3,waiting-list,list.phtml;bb3,news.phtml;bb3,banner.phtml"
+  }, 
+  {
+    "url": "image.phtml"
+  }, 
+  {
+    "url": "finanse-osobiste.phtml"
+  }, 
+  {
+    "url": "clubImg.phtml"
+  }, 
+  {
+    "url": "iMakePage.phtml"
+  }, 
+  {
+    "url": "CNP_script.phtml"
+  }, 
+  {
+    "url": "ajaxobjectsget.phtml"
+  }, 
+  {
+    "url": "horizontalPromoBarLimited.phtml"
+  }, 
+  {
+    "url": "axGetUserInfo.phtml"
+  }, 
+  {
+    "url": "kapitola.phtml"
+  }, 
+  {
+    "url": "kal_complet.phtml"
+  }, 
+  {
+    "url": "ts.phtml"
+  }, 
+  {
+    "url": "404.phtml"
+  }, 
+  {
+    "url": "portlets.phtml"
+  }, 
+  {
+    "url": "brand.phtml"
+  }, 
+  {
+    "url": "last-news-job.phtml"
+  }, 
+  {
+    "url": "obtenerUltimaEntradaTwitter.phtml"
+  }, 
+  {
+    "url": "include_js.phtml"
+  }, 
+  {
+    "url": "js-error.phtml"
+  }, 
+  {
+    "url": "list_of_cities.phtml"
+  }, 
+  {
+    "url": "sub-menu.phtml"
+  }, 
+  {
+    "url": "central_side.phtml"
+  }, 
+  {
+    "url": "anmut_split.phtml"
+  }, 
+  {
+    "url": "menu.phtml"
+  }, 
+  {
+    "url": "swfxml.phtml"
+  }, 
+  {
+    "url": "mgSuggestResult.phtml"
+  }, 
+  {
+    "url": "banner.phtml"
+  }, 
+  {
+    "url": "trafic.phtml"
+  }, 
+  {
+    "url": "include_css.phtml"
+  }, 
+  {
+    "url": "popisy.phtml"
+  }, 
+  {
+    "url": "quotes.phtml"
+  }, 
+  {
+    "url": "visit.phtml"
+  }, 
+  {
+    "url": "list_of_states.phtml"
+  }, 
+  {
+    "url": "alertCookies.phtml"
+  }, 
+  {
+    "url": "hotpanel.phtml"
+  }, 
+  {
+    "url": "getimage.phtml"
+  }, 
+  {
+    "url": "obtenerVideosRecomendados.phtml"
+  }, 
+  {
+    "url": "program_hdr_list.phtml"
+  }, 
+  {
+    "url": "bucket_menu.phtml"
+  }, 
+  {
+    "url": "basketlist_short.phtml"
+  }, 
+  {
+    "url": "new_cust_discount_find.phtml"
+  }, 
+  {
+    "url": "axCategorieMng.phtml"
+  }, 
+  {
+    "url": "ajs.phtml"
+  }, 
+  {
+    "url": "jinba.phtml"
+  }, 
+  {
+    "url": "bb3,user-login.phtml;bb3,search,provider-options.phtml"
+  }, 
+  {
+    "url": "login.phtml"
+  }, 
+  {
+    "url": "videosporcategorias.phtml"
+  }, 
+  {
+    "url": "horizontalBarScrolling.phtml"
+  }, 
+  {
+    "url": "index.phtml"
+  }, 
+  {
+    "url": "sp_32_1.phtml"
+  }, 
+  {
+    "url": "home.phtml"
+  }, 
+  {
+    "url": "banner_728x90.phtml"
+  }, 
+  {
+    "url": "iCountLogger.phtml"
+  }, 
+  {
+    "url": "hhHome.phtml"
+  }, 
+  {
+    "url": "api.phtml"
+  }, 
+  {
+    "url": "embeded.phtml"
+  }, 
+  {
+    "url": "search-xml.phtml"
+  }, 
+  {
+    "url": "mostrarFormularioLoginRegistroGeneral.phtml"
+  }, 
+  {
+    "url": "tv.phtml"
+  }, 
+  {
+    "url": "latest_discussions.phtml"
+  }, 
+  {
+    "url": "axGoodsGetReviewList.phtml"
+  }, 
+  {
+    "url": "store.phtml"
+  }, 
+  {
+    "url": "imageul.phtml"
+  }, 
+  {
+    "url": "afr.phtml"
+  }, 
+  {
+    "url": "random.phtml"
+  }, 
+  {
+    "url": "countcss.phtml"
+  }, 
+  {
+    "url": "final.phtml"
+  }, 
+  {
+    "url": "iPopupAgent.phtml"
+  }, 
+  {
+    "url": "itcharts.phtml"
+  }, 
+  {
+    "url": "startseite.phtml"
+  }, 
+  {
+    "url": "showModule.phtml"
+  }, 
+  {
+    "url": "iStartPage.phtml"
+  }
+]

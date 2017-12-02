@@ -1,0 +1,5 @@
+
+BigQuery error in query operation: Error processing job
+'crunchbox-160315:bqjob_r7e981fa2a719fd20_0000015fdabdca04_1': Resources
+exceeded during query execution: The query could not be executed in the allotted
+memory..

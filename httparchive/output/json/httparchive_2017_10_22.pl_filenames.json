@@ -1,0 +1,978 @@
+
+[
+  {
+    "url": "page_follow.pl"
+  }, 
+  {
+    "url": "stats.pl"
+  }, 
+  {
+    "url": "to.pl"
+  }, 
+  {
+    "url": "draw_counter.pl"
+  }, 
+  {
+    "url": "rand_image.pl"
+  }, 
+  {
+    "url": "ep.pl"
+  }, 
+  {
+    "url": "cleanLink.pl"
+  }, 
+  {
+    "url": "w.pl"
+  }, 
+  {
+    "url": "user_session_id.pl"
+  }, 
+  {
+    "url": "twitter.pl"
+  }, 
+  {
+    "url": "count-101.pl"
+  }, 
+  {
+    "url": "weather.pl"
+  }, 
+  {
+    "url": "flw_cart_ajax.pl"
+  }, 
+  {
+    "url": "120x60.pl"
+  }, 
+  {
+    "url": "affiche_news.pl"
+  }, 
+  {
+    "url": "panier_cookie_save.pl"
+  }, 
+  {
+    "url": "js.pl"
+  }, 
+  {
+    "url": "uwolnijkolory.pl"
+  }, 
+  {
+    "url": "weInterruptThisProgram.pl"
+  }, 
+  {
+    "url": "cart.pl"
+  }, 
+  {
+    "url": "vectra.pl"
+  }, 
+  {
+    "url": "index2.pl"
+  }, 
+  {
+    "url": "affiche_gmap_dyn.pl"
+  }, 
+  {
+    "url": "Image.pl"
+  }, 
+  {
+    "url": "favorite.pl"
+  }, 
+  {
+    "url": "clockdata.pl"
+  }, 
+  {
+    "url": "lggr.pl"
+  }, 
+  {
+    "url": "whatsnew.pl"
+  }, 
+  {
+    "url": "HomePage.pl"
+  }, 
+  {
+    "url": "gen.pl"
+  }, 
+  {
+    "url": "Widget.pl"
+  }, 
+  {
+    "url": "ACG.pl"
+  }, 
+  {
+    "url": "sehha_ads_2.pl"
+  }, 
+  {
+    "url": "webseitenwetter.pl"
+  }, 
+  {
+    "url": "ax.pl"
+  }, 
+  {
+    "url": "css.pl"
+  }, 
+  {
+    "url": "feed_joblist_tool.pl"
+  }, 
+  {
+    "url": "gtchatusers.pl"
+  }, 
+  {
+    "url": "o.pl"
+  }, 
+  {
+    "url": "webdata_pro.pl"
+  }, 
+  {
+    "url": "fpf.pl"
+  }, 
+  {
+    "url": "loginuser.pl"
+  }, 
+  {
+    "url": "ecommerce.pl"
+  }, 
+  {
+    "url": "top5.pl"
+  }, 
+  {
+    "url": "ads_GooRem.pl"
+  }, 
+  {
+    "url": "edius7url.pl"
+  }, 
+  {
+    "url": "latesthifibuysell.pl"
+  }, 
+  {
+    "url": "opac-main.pl"
+  }, 
+  {
+    "url": "mcal2.pl"
+  }, 
+  {
+    "url": "colorland.pl"
+  }, 
+  {
+    "url": "image.pl"
+  }, 
+  {
+    "url": "ad.pl"
+  }, 
+  {
+    "url": "j1.pl"
+  }, 
+  {
+    "url": "physiologyweb_counter.pl"
+  }, 
+  {
+    "url": "gestioncookies.pl"
+  }, 
+  {
+    "url": "getHomepageFeaturedPrizesJSON.pl"
+  }, 
+  {
+    "url": "YaBB.pl"
+  }, 
+  {
+    "url": "geossql.pl"
+  }, 
+  {
+    "url": "create_session.pl"
+  }, 
+  {
+    "url": "tellme.pl"
+  }, 
+  {
+    "url": "css_screen_1.pl"
+  }, 
+  {
+    "url": "ping_timer.pl"
+  }, 
+  {
+    "url": "17247&vid_id=566801&vid_title=lifestyle&vid_url=eszkola.pl&player_width=300&player_height=250&page_url=http:%2F%2Feszkola.pl"
+  }, 
+  {
+    "url": "menuTopLogin.pl"
+  }, 
+  {
+    "url": "fp_check.pl"
+  }, 
+  {
+    "url": "ajaxhtml.pl"
+  }, 
+  {
+    "url": "informer_v.pl"
+  }, 
+  {
+    "url": "citaty.pl"
+  }, 
+  {
+    "url": "amazon_300x90.pl"
+  }, 
+  {
+    "url": "language.pl"
+  }, 
+  {
+    "url": "cntimg.pl"
+  }, 
+  {
+    "url": "best-prices-digest.pl"
+  }, 
+  {
+    "url": "get_amber_alerts.pl"
+  }, 
+  {
+    "url": "random_image.pl"
+  }, 
+  {
+    "url": "count-009.pl"
+  }, 
+  {
+    "url": "gcount.pl"
+  }, 
+  {
+    "url": "wt.pl"
+  }, 
+  {
+    "url": "slashdot-it.pl"
+  }, 
+  {
+    "url": "ticket.pl"
+  }, 
+  {
+    "url": "actu.pl"
+  }, 
+  {
+    "url": "pixeltrack.pl"
+  }, 
+  {
+    "url": "r40msvc_menue.pl"
+  }, 
+  {
+    "url": "session_pageview_id.pl"
+  }, 
+  {
+    "url": "serve.pl"
+  }, 
+  {
+    "url": "track2.pl"
+  }, 
+  {
+    "url": "index.pl"
+  }, 
+  {
+    "url": "ticker-nok.pl"
+  }, 
+  {
+    "url": "fpc.pl"
+  }, 
+  {
+    "url": "cgMasVistos.pl"
+  }, 
+  {
+    "url": "almanacco.pl"
+  }, 
+  {
+    "url": "getjson.pl"
+  }, 
+  {
+    "url": "getRssFeed.pl"
+  }, 
+  {
+    "url": "ThirdpartyService.pl"
+  }, 
+  {
+    "url": "who.pl"
+  }, 
+  {
+    "url": "amiip.pl"
+  }, 
+  {
+    "url": "animedb.pl"
+  }, 
+  {
+    "url": "status.pl"
+  }, 
+  {
+    "url": "p.pl"
+  }, 
+  {
+    "url": "petspot_layer.pl"
+  }, 
+  {
+    "url": "vp_bnc_oneword.pl"
+  }, 
+  {
+    "url": "chooser.pl"
+  }, 
+  {
+    "url": "offer_click_js_enabled.pl"
+  }, 
+  {
+    "url": "comments.pl"
+  }, 
+  {
+    "url": "captcha.pl"
+  }, 
+  {
+    "url": "uebersicht.pl"
+  }, 
+  {
+    "url": "showad.pl"
+  }, 
+  {
+    "url": "get_news.pl"
+  }, 
+  {
+    "url": "speedtest_block.pl"
+  }, 
+  {
+    "url": "dh.pl"
+  }, 
+  {
+    "url": "chat.pl"
+  }, 
+  {
+    "url": "amz.pl"
+  }, 
+  {
+    "url": "favoriList.pl"
+  }, 
+  {
+    "url": "im.pl"
+  }, 
+  {
+    "url": "archive_menu.pl"
+  }, 
+  {
+    "url": "customercomments.pl"
+  }, 
+  {
+    "url": "whos_online.pl"
+  }, 
+  {
+    "url": "speedtest.pl"
+  }, 
+  {
+    "url": "operon.pl"
+  }, 
+  {
+    "url": "adbanner_java.pl"
+  }, 
+  {
+    "url": "bandeaux.pl"
+  }, 
+  {
+    "url": "geocf.pl"
+  }, 
+  {
+    "url": "playercount.pl"
+  }, 
+  {
+    "url": "searchHistory.pl"
+  }, 
+  {
+    "url": "charts.pl"
+  }, 
+  {
+    "url": "ads_info.pl"
+  }, 
+  {
+    "url": "logo.gazetaprawna.pl"
+  }, 
+  {
+    "url": "js-flash.pl"
+  }, 
+  {
+    "url": "visitors.pl"
+  }, 
+  {
+    "url": "vartype.pl"
+  }, 
+  {
+    "url": "upmemlog.pl"
+  }, 
+  {
+    "url": "remotecounter.pl"
+  }, 
+  {
+    "url": "button.pl"
+  }, 
+  {
+    "url": "topnav.pl"
+  }, 
+  {
+    "url": "check_geo.pl"
+  }, 
+  {
+    "url": "livechat.pl"
+  }, 
+  {
+    "url": "getImage.pl"
+  }, 
+  {
+    "url": "geo_detect.pl"
+  }, 
+  {
+    "url": "storehomepage.pl"
+  }, 
+  {
+    "url": "cookie_index.pl"
+  }, 
+  {
+    "url": "pg-livecount.pl"
+  }, 
+  {
+    "url": "size.pl"
+  }, 
+  {
+    "url": "daily-feature.pl"
+  }, 
+  {
+    "url": "banners.pl"
+  }, 
+  {
+    "url": "get_layers.pl"
+  }, 
+  {
+    "url": "asjs.pl"
+  }, 
+  {
+    "url": "entry.pl"
+  }, 
+  {
+    "url": "news1.pl"
+  }, 
+  {
+    "url": "popterm.pl"
+  }, 
+  {
+    "url": "counter.pl"
+  }, 
+  {
+    "url": "latestposts.pl"
+  }, 
+  {
+    "url": "letzterbildeintrag-js.pl"
+  }, 
+  {
+    "url": "exo.pl"
+  }, 
+  {
+    "url": "link_display.pl"
+  }, 
+  {
+    "url": "chiq.pl"
+  }, 
+  {
+    "url": "randomlink.pl"
+  }, 
+  {
+    "url": "stat.pl"
+  }, 
+  {
+    "url": "sehha_ads_1.pl"
+  }, 
+  {
+    "url": "offers.pl"
+  }, 
+  {
+    "url": "wtslog.pl"
+  }, 
+  {
+    "url": "yafud.pl"
+  }, 
+  {
+    "url": "Pixel.pl"
+  }, 
+  {
+    "url": "displayad.pl"
+  }, 
+  {
+    "url": "awb_nav.pl"
+  }, 
+  {
+    "url": "count-029.pl"
+  }, 
+  {
+    "url": "img.pl"
+  }, 
+  {
+    "url": "dsp.pl"
+  }, 
+  {
+    "url": "girlrandom.pl"
+  }, 
+  {
+    "url": "count.pl"
+  }, 
+  {
+    "url": "log.pl"
+  }, 
+  {
+    "url": "check_membre_top.pl"
+  }, 
+  {
+    "url": "dyna_loader.pl"
+  }, 
+  {
+    "url": "ping_display_timer.pl"
+  }, 
+  {
+    "url": "inhits.pl"
+  }, 
+  {
+    "url": "ot_square.pl"
+  }, 
+  {
+    "url": "ajaxpoll.pl"
+  }, 
+  {
+    "url": "v.pl"
+  }, 
+  {
+    "url": "login.pl"
+  }, 
+  {
+    "url": "lib.pl"
+  }, 
+  {
+    "url": "blue_engine_oet_last_words_v2.pl"
+  }, 
+  {
+    "url": "rand_image_dr_rat.pl"
+  }, 
+  {
+    "url": "mmainpage.pl"
+  }, 
+  {
+    "url": "index1.pl"
+  }, 
+  {
+    "url": "get_corridor_definitions.pl"
+  }, 
+  {
+    "url": "ext_redir.pl"
+  }, 
+  {
+    "url": "slineup.pl"
+  }, 
+  {
+    "url": "show.pl"
+  }, 
+  {
+    "url": "zone_EN.pl"
+  }, 
+  {
+    "url": "spp.pl"
+  }, 
+  {
+    "url": "online-games.pl"
+  }, 
+  {
+    "url": "ajax_demo.pl"
+  }, 
+  {
+    "url": "wingame.pl"
+  }, 
+  {
+    "url": "show_hours2.pl"
+  }, 
+  {
+    "url": "api.pl"
+  }, 
+  {
+    "url": "contatore.pl"
+  }, 
+  {
+    "url": "connection_count.pl"
+  }, 
+  {
+    "url": "get_holiday.pl"
+  }, 
+  {
+    "url": "static.pl"
+  }, 
+  {
+    "url": "errorPage.pl"
+  }, 
+  {
+    "url": "vorschau.pl"
+  }, 
+  {
+    "url": "topsites.pl"
+  }, 
+  {
+    "url": "skin_ww.pl"
+  }, 
+  {
+    "url": "GetPwDat0.pl"
+  }, 
+  {
+    "url": "user_id.pl"
+  }, 
+  {
+    "url": "widget.pl"
+  }, 
+  {
+    "url": "frideborg_widget.pl"
+  }, 
+  {
+    "url": "gcounter.pl"
+  }, 
+  {
+    "url": "give_file.pl"
+  }, 
+  {
+    "url": "catData.pl"
+  }, 
+  {
+    "url": "randomfact.pl"
+  }, 
+  {
+    "url": "publicCalendar2.pl"
+  }, 
+  {
+    "url": "src.pl"
+  }, 
+  {
+    "url": "tower.pl"
+  }, 
+  {
+    "url": "i.pl"
+  }, 
+  {
+    "url": "bee.pl"
+  }, 
+  {
+    "url": "view.pl"
+  }, 
+  {
+    "url": "stattrak.pl"
+  }, 
+  {
+    "url": "blue_engine_oet_random_verb_v2.pl"
+  }, 
+  {
+    "url": "News.pl"
+  }, 
+  {
+    "url": "getRssFeedBibnet.pl"
+  }, 
+  {
+    "url": "count_murders.pl"
+  }, 
+  {
+    "url": "get_map_timestamp.pl"
+  }, 
+  {
+    "url": "rotate3.pl"
+  }, 
+  {
+    "url": "redirect.pl"
+  }, 
+  {
+    "url": "ban.pl"
+  }, 
+  {
+    "url": "myhistoryif.pl"
+  }, 
+  {
+    "url": "API.pl"
+  }, 
+  {
+    "url": "searchxml.pl"
+  }, 
+  {
+    "url": "membre_js_menu.pl"
+  }, 
+  {
+    "url": "logout.pl"
+  }, 
+  {
+    "url": "ero.pl"
+  }, 
+  {
+    "url": "applause_info.pl"
+  }, 
+  {
+    "url": "getSess.pl"
+  }, 
+  {
+    "url": "rsmWebservice.pl"
+  }, 
+  {
+    "url": "getChart.pl"
+  }, 
+  {
+    "url": "ajax_search.pl"
+  }, 
+  {
+    "url": "feedback.pl"
+  }, 
+  {
+    "url": "meteo.pl"
+  }, 
+  {
+    "url": "intexteval.pl"
+  }, 
+  {
+    "url": "search.pl"
+  }, 
+  {
+    "url": "archive_news.pl"
+  }, 
+  {
+    "url": "arithcap.pl"
+  }, 
+  {
+    "url": "newvids.pl"
+  }, 
+  {
+    "url": "visitortype.pl"
+  }, 
+  {
+    "url": "request.pl"
+  }, 
+  {
+    "url": "rogator-kkl2ads.pl"
+  }, 
+  {
+    "url": "higaraChart.pl"
+  }, 
+  {
+    "url": "json.pl"
+  }, 
+  {
+    "url": "chatusers.pl"
+  }, 
+  {
+    "url": "loadfile.pl"
+  }, 
+  {
+    "url": "mac.pl"
+  }, 
+  {
+    "url": "statistics.pl"
+  }, 
+  {
+    "url": "fondo.pl"
+  }, 
+  {
+    "url": "demo_streaming.pl"
+  }, 
+  {
+    "url": "wixMapsNewWorker.pl"
+  }, 
+  {
+    "url": "js_track.pl"
+  }, 
+  {
+    "url": "wixStats2.pl"
+  }, 
+  {
+    "url": "from.pl"
+  }, 
+  {
+    "url": "17247&vid_id=212906&vid_title=travel&vid_url=filing.pl&player_width=300&player_height=250&page_url=http:%2F%2Ffiling.pl"
+  }, 
+  {
+    "url": "setcookie.pl"
+  }, 
+  {
+    "url": "banner_rotate.pl"
+  }, 
+  {
+    "url": "json_lwp.pl"
+  }, 
+  {
+    "url": "travel.pl"
+  }, 
+  {
+    "url": "pic_pull.pl"
+  }, 
+  {
+    "url": "onlinetracker.pl"
+  }, 
+  {
+    "url": "timeRemaining.pl"
+  }, 
+  {
+    "url": "ersatzteile.pl"
+  }, 
+  {
+    "url": "kyoasu-2.pl"
+  }, 
+  {
+    "url": "pg-compteur.pl"
+  }, 
+  {
+    "url": "rate.pl"
+  }, 
+  {
+    "url": "blue_engine_oet_random_noun_v2.pl"
+  }, 
+  {
+    "url": "count6.pl"
+  }, 
+  {
+    "url": "ajax.pl"
+  }, 
+  {
+    "url": "inchat.pl"
+  }, 
+  {
+    "url": "tabelle.pl"
+  }, 
+  {
+    "url": "get_global_price.pl"
+  }, 
+  {
+    "url": "logitpro.pl"
+  }, 
+  {
+    "url": "adsmain_txt.pl"
+  }, 
+  {
+    "url": "Vorteilsnummer.pl"
+  }, 
+  {
+    "url": "embed.pl"
+  }, 
+  {
+    "url": "randombanner.pl"
+  }, 
+  {
+    "url": "utenti_correnti_stat.pl"
+  }, 
+  {
+    "url": "xs.pl"
+  }, 
+  {
+    "url": "reg.pl"
+  }, 
+  {
+    "url": "candle.pl"
+  }, 
+  {
+    "url": "cnt.pl"
+  }, 
+  {
+    "url": "hit.pl"
+  }, 
+  {
+    "url": "banner.pl"
+  }, 
+  {
+    "url": "cmt_jsp.pl"
+  }, 
+  {
+    "url": "rshop.pl"
+  }, 
+  {
+    "url": "xrx_ajax_log.pl"
+  }, 
+  {
+    "url": "flv_xml.pl"
+  }, 
+  {
+    "url": "ajaxCal.v10.pl"
+  }, 
+  {
+    "url": "tefal.pl"
+  }, 
+  {
+    "url": "ads.pl"
+  }, 
+  {
+    "url": "spic.pl"
+  }, 
+  {
+    "url": "opensearch.pl"
+  }, 
+  {
+    "url": "toast.pl"
+  }, 
+  {
+    "url": "srgsrtgh.cba.pl"
+  }, 
+  {
+    "url": "city.pl"
+  }, 
+  {
+    "url": "mat_server.pl"
+  }, 
+  {
+    "url": "125x125.pl"
+  }, 
+  {
+    "url": "featimg.pl"
+  }, 
+  {
+    "url": "show_hours1.pl"
+  }, 
+  {
+    "url": "smartads.pl"
+  }, 
+  {
+    "url": "informer_p.pl"
+  }, 
+  {
+    "url": "networkads2.pl"
+  }, 
+  {
+    "url": "sidebar.pl"
+  }, 
+  {
+    "url": "cust_sitetable.pl"
+  }, 
+  {
+    "url": "Counter.pl"
+  }, 
+  {
+    "url": "external.pl"
+  }, 
+  {
+    "url": "ReportV.pl"
+  }, 
+  {
+    "url": "najlepszefoto.pl"
+  }, 
+  {
+    "url": "basket.pl"
+  }, 
+  {
+    "url": "events.pl"
+  }, 
+  {
+    "url": "track.pl"
+  }, 
+  {
+    "url": "in.pl"
+  }, 
+  {
+    "url": "hw7.pl"
+  }, 
+  {
+    "url": "pic.pl"
+  }, 
+  {
+    "url": "get_radar_index.pl"
+  }, 
+  {
+    "url": "load.pl"
+  }, 
+  {
+    "url": "ncounter.pl"
+  }, 
+  {
+    "url": "saveSearch.pl"
+  }, 
+  {
+    "url": "sp.pl"
+  }, 
+  {
+    "url": "app.pl"
+  }, 
+  {
+    "url": "inhalt.pl"
+  }
+]

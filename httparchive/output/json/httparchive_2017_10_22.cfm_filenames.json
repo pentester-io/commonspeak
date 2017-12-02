@@ -1,0 +1,1830 @@
+
+[
+  {
+    "url": "kalender.cfm"
+  }, 
+  {
+    "url": "loginStatusBar.cfm"
+  }, 
+  {
+    "url": "displaytable.cfm"
+  }, 
+  {
+    "url": "get_weather.cfm"
+  }, 
+  {
+    "url": "currentsong.cfm"
+  }, 
+  {
+    "url": "NostoAPI2.cfm"
+  }, 
+  {
+    "url": "jquery_modal.cfm"
+  }, 
+  {
+    "url": "megaMenu.js.cfm"
+  }, 
+  {
+    "url": "getSpanListEvents.cfm"
+  }, 
+  {
+    "url": "3dayforecast.cfm"
+  }, 
+  {
+    "url": "designerresources.cfm"
+  }, 
+  {
+    "url": "sports.cfm"
+  }, 
+  {
+    "url": "content.cfm"
+  }, 
+  {
+    "url": "user_timeline.cfm"
+  }, 
+  {
+    "url": "_minicart_cache.cfm"
+  }, 
+  {
+    "url": "DS26012015122216.cfm"
+  }, 
+  {
+    "url": "news.cfm"
+  }, 
+  {
+    "url": "Preload.cfm"
+  }, 
+  {
+    "url": "ajaxGetProductPrice.cfm"
+  }, 
+  {
+    "url": "checkLogin.cfm"
+  }, 
+  {
+    "url": "logon.cfm"
+  }, 
+  {
+    "url": "tabs.cfm"
+  }, 
+  {
+    "url": "sitelog.cfm"
+  }, 
+  {
+    "url": "gare_passate.cfm"
+  }, 
+  {
+    "url": "display_ad.cfm"
+  }, 
+  {
+    "url": "Player1.cfm"
+  }, 
+  {
+    "url": "panier.cfm"
+  }, 
+  {
+    "url": "popup-form.cfm"
+  }, 
+  {
+    "url": "_homeDayModel3w.cfm"
+  }, 
+  {
+    "url": "sale.cfm"
+  }, 
+  {
+    "url": "MarathonGuide_com.cfm"
+  }, 
+  {
+    "url": "remote_cookie.cfm"
+  }, 
+  {
+    "url": "e.cfm"
+  }, 
+  {
+    "url": "ap-years.cfm"
+  }, 
+  {
+    "url": "styles.cfm"
+  }, 
+  {
+    "url": "minicart.cfm"
+  }, 
+  {
+    "url": "login.cfm"
+  }, 
+  {
+    "url": "tracker.cfm"
+  }, 
+  {
+    "url": "start.cfm"
+  }, 
+  {
+    "url": "liste_rayons.cfm"
+  }, 
+  {
+    "url": "beacon.cfm"
+  }, 
+  {
+    "url": "viewlogs.cfm"
+  }, 
+  {
+    "url": "homerunBaseballR.cfm"
+  }, 
+  {
+    "url": "directory.cfm"
+  }, 
+  {
+    "url": "community.cfm"
+  }, 
+  {
+    "url": "clump2.cfm"
+  }, 
+  {
+    "url": "acgif.cfm"
+  }, 
+  {
+    "url": "avisoCookie.cfm"
+  }, 
+  {
+    "url": "404error.cfm"
+  }, 
+  {
+    "url": "sitecontent.cfm"
+  }, 
+  {
+    "url": "AppSign.cfm"
+  }, 
+  {
+    "url": "search.cfm"
+  }, 
+  {
+    "url": "showLogo.cfm"
+  }, 
+  {
+    "url": "views.cfm"
+  }, 
+  {
+    "url": "inc_get_homecam_id.cfm"
+  }, 
+  {
+    "url": "smt_navigationAjax.cfm"
+  }, 
+  {
+    "url": "slider.cfm"
+  }, 
+  {
+    "url": "trackResume.cfm"
+  }, 
+  {
+    "url": "ajax_adwonder.cfm"
+  }, 
+  {
+    "url": "buyparts_widget.cfm"
+  }, 
+  {
+    "url": "sso.js.cfm"
+  }, 
+  {
+    "url": "iframe_content.cfm"
+  }, 
+  {
+    "url": "i18nfront.cfm"
+  }, 
+  {
+    "url": "main.cfm"
+  }, 
+  {
+    "url": "_inc_ajax_action.cfm"
+  }, 
+  {
+    "url": "st.cfm"
+  }, 
+  {
+    "url": "car-citylist_cf.cfm"
+  }, 
+  {
+    "url": "bookmarks.cfm"
+  }, 
+  {
+    "url": "dynamic.cfm"
+  }, 
+  {
+    "url": "load-scripts.cfm"
+  }, 
+  {
+    "url": "clientCheckLogin.cfm"
+  }, 
+  {
+    "url": "cardmaking.cfm"
+  }, 
+  {
+    "url": "my-surfline.cfm"
+  }, 
+  {
+    "url": "login2a.cfm"
+  }, 
+  {
+    "url": "Prelogin.cfm"
+  }, 
+  {
+    "url": "renderAdZone.cfm"
+  }, 
+  {
+    "url": "campusLife.cfm"
+  }, 
+  {
+    "url": "feedback_js.cfm"
+  }, 
+  {
+    "url": "_side_bookmarks.cfm"
+  }, 
+  {
+    "url": "rate.cfm"
+  }, 
+  {
+    "url": "getInsta.cfm"
+  }, 
+  {
+    "url": "cfp_site_cadastrado_ajax.cfm"
+  }, 
+  {
+    "url": "bodyImage.cfm"
+  }, 
+  {
+    "url": "404Error.cfm"
+  }, 
+  {
+    "url": "getSimpleData.cfm"
+  }, 
+  {
+    "url": "freshDeals_300x90.cfm"
+  }, 
+  {
+    "url": "_JSapplication.cfm"
+  }, 
+  {
+    "url": "js-activejobs-plugin.cfm"
+  }, 
+  {
+    "url": "rightclick-ajax.cfm"
+  }, 
+  {
+    "url": "m_redirct.cfm"
+  }, 
+  {
+    "url": "getsprite.cfm"
+  }, 
+  {
+    "url": "cardinalnews.cfm"
+  }, 
+  {
+    "url": "toolbar-featured.cfm"
+  }, 
+  {
+    "url": "_ad2.cfm"
+  }, 
+  {
+    "url": "AjaxLogCampaignImpressions.cfm"
+  }, 
+  {
+    "url": "clump9.cfm"
+  }, 
+  {
+    "url": "ip.cfm"
+  }, 
+  {
+    "url": "integration.cfm"
+  }, 
+  {
+    "url": "LatestKCContent.cfm"
+  }, 
+  {
+    "url": "preroll_companion.cfm"
+  }, 
+  {
+    "url": "cuttingfiles.cfm"
+  }, 
+  {
+    "url": "feed-proxy.cfm"
+  }, 
+  {
+    "url": "nbre_article_bloc.cfm"
+  }, 
+  {
+    "url": "access.cfm"
+  }, 
+  {
+    "url": "JSsite.cfm"
+  }, 
+  {
+    "url": "voas024f.cfm"
+  }, 
+  {
+    "url": "login_bloc.cfm"
+  }, 
+  {
+    "url": "ajax_actions.cfm"
+  }, 
+  {
+    "url": "footerModulesInit.cfm"
+  }, 
+  {
+    "url": "_newsFeatures.cfm"
+  }, 
+  {
+    "url": "getMotore.cfm"
+  }, 
+  {
+    "url": "phone.cfm"
+  }, 
+  {
+    "url": "site_menu.cfm"
+  }, 
+  {
+    "url": "_footer.cfm"
+  }, 
+  {
+    "url": "mailing.cfm"
+  }, 
+  {
+    "url": "ad_campaign_get.cfm"
+  }, 
+  {
+    "url": "banner.cfm"
+  }, 
+  {
+    "url": "games.cfm"
+  }, 
+  {
+    "url": "UEM.cfm"
+  }, 
+  {
+    "url": "check-for-helpdesk-chat.cfm"
+  }, 
+  {
+    "url": "core.cfm"
+  }, 
+  {
+    "url": "ui.datepicker.cfm"
+  }, 
+  {
+    "url": "errorpage.cfm"
+  }, 
+  {
+    "url": "counter_page.cfm"
+  }, 
+  {
+    "url": "vivenumbrow.cfm"
+  }, 
+  {
+    "url": "retainsession.cfm"
+  }, 
+  {
+    "url": "welcome.cfm"
+  }, 
+  {
+    "url": "retaily.cfm"
+  }, 
+  {
+    "url": "scrollbox.cfm"
+  }, 
+  {
+    "url": "tabsdvd.cfm"
+  }, 
+  {
+    "url": "loadCart.cfm"
+  }, 
+  {
+    "url": "mercatrans.cfm"
+  }, 
+  {
+    "url": "logos.cfm"
+  }, 
+  {
+    "url": "cancellations-js-data.cfm"
+  }, 
+  {
+    "url": "rssfeed.cfm"
+  }, 
+  {
+    "url": "talkOptions.cfm"
+  }, 
+  {
+    "url": "noDistrict.cfm"
+  }, 
+  {
+    "url": "record_log.cfm"
+  }, 
+  {
+    "url": "index16.cfm"
+  }, 
+  {
+    "url": "login_form.cfm"
+  }, 
+  {
+    "url": "useragent-capture.cfm"
+  }, 
+  {
+    "url": "DS18112013103153.cfm"
+  }, 
+  {
+    "url": "inc-iframe-stock-quote.cfm"
+  }, 
+  {
+    "url": "rss_proxy.cfm"
+  }, 
+  {
+    "url": "view.cfm"
+  }, 
+  {
+    "url": "ajax_init_ad_new.cfm"
+  }, 
+  {
+    "url": "stylesheet.cfm"
+  }, 
+  {
+    "url": "js.utenti_variabili_lingua.cfm"
+  }, 
+  {
+    "url": "v1.cfm"
+  }, 
+  {
+    "url": "academics.cfm"
+  }, 
+  {
+    "url": "obits.cfm"
+  }, 
+  {
+    "url": "inc-mega-menu.cfm"
+  }, 
+  {
+    "url": "inscription_newsletter_cabestan.cfm"
+  }, 
+  {
+    "url": "featurescroll.cfm"
+  }, 
+  {
+    "url": "randimg.cfm"
+  }, 
+  {
+    "url": "feature.ajax.cfm"
+  }, 
+  {
+    "url": "upptaction.cfm"
+  }, 
+  {
+    "url": "facebook.cfm"
+  }, 
+  {
+    "url": "dialogContent.cfm"
+  }, 
+  {
+    "url": "asset.cfm"
+  }, 
+  {
+    "url": "home_image.cfm"
+  }, 
+  {
+    "url": "fmsdownload.cfm"
+  }, 
+  {
+    "url": "sync.cfm"
+  }, 
+  {
+    "url": "hascookielayer.cfm"
+  }, 
+  {
+    "url": "vbrand001j.cfm"
+  }, 
+  {
+    "url": "alert-feed.cfm"
+  }, 
+  {
+    "url": "nouser.cfm"
+  }, 
+  {
+    "url": "wbgznews.cfm"
+  }, 
+  {
+    "url": "flow.cfm"
+  }, 
+  {
+    "url": "sup.cfm"
+  }, 
+  {
+    "url": "clump10.cfm"
+  }, 
+  {
+    "url": "flight_v3_frontpage_300x250.cfm"
+  }, 
+  {
+    "url": "inspire-dynastyle.cfm"
+  }, 
+  {
+    "url": "player_300x67.cfm"
+  }, 
+  {
+    "url": "ajaxCurrentIpCountry.cfm"
+  }, 
+  {
+    "url": "58.cfm"
+  }, 
+  {
+    "url": "pollboxframe.cfm"
+  }, 
+  {
+    "url": "combine2.cfm"
+  }, 
+  {
+    "url": "404.cfm"
+  }, 
+  {
+    "url": "json_calendar_ajax_requests.cfm"
+  }, 
+  {
+    "url": "popup-v1.cfm"
+  }, 
+  {
+    "url": "application_header_cart_popover.cfm"
+  }, 
+  {
+    "url": "inc-homepage-dest-spot.cfm"
+  }, 
+  {
+    "url": "follettshelf.cfm"
+  }, 
+  {
+    "url": "showmedia.cfm"
+  }, 
+  {
+    "url": "store_timezone.cfm"
+  }, 
+  {
+    "url": "VcfHome.cfm"
+  }, 
+  {
+    "url": "picturegrabber.cfm"
+  }, 
+  {
+    "url": "more_slider.cfm"
+  }, 
+  {
+    "url": "getPhoto.cfm"
+  }, 
+  {
+    "url": "diamondAdsV.cfm"
+  }, 
+  {
+    "url": "UEMJS.cfm"
+  }, 
+  {
+    "url": "GetBannerImage.cfm"
+  }, 
+  {
+    "url": "submitAction.cfm"
+  }, 
+  {
+    "url": "clump6.cfm"
+  }, 
+  {
+    "url": "choose-teams.cfm"
+  }, 
+  {
+    "url": "slideshow.cfm"
+  }, 
+  {
+    "url": "style_redirect.cfm"
+  }, 
+  {
+    "url": "loadOut.cfm"
+  }, 
+  {
+    "url": "showMedia.cfm"
+  }, 
+  {
+    "url": "handler.cfm"
+  }, 
+  {
+    "url": "ziplookup.cfm"
+  }, 
+  {
+    "url": "statenews.cfm"
+  }, 
+  {
+    "url": "informativa.cfm"
+  }, 
+  {
+    "url": "actions.cfm"
+  }, 
+  {
+    "url": "es_logon_screen.cfm"
+  }, 
+  {
+    "url": "inc_toppromo.cfm"
+  }, 
+  {
+    "url": "spot.cfm"
+  }, 
+  {
+    "url": "header.cfm"
+  }, 
+  {
+    "url": "def.cfm"
+  }, 
+  {
+    "url": "get-school-locations.cfm"
+  }, 
+  {
+    "url": "ajax.cfm"
+  }, 
+  {
+    "url": "LastActive.cfm"
+  }, 
+  {
+    "url": "recherche_magasin.cfm"
+  }, 
+  {
+    "url": "all.cfm"
+  }, 
+  {
+    "url": "estoyLogueado.cfm"
+  }, 
+  {
+    "url": "home_departures.cfm"
+  }, 
+  {
+    "url": "custom.cfm"
+  }, 
+  {
+    "url": "jengines.cfm"
+  }, 
+  {
+    "url": "oorace.cfm"
+  }, 
+  {
+    "url": "social_content.cfm"
+  }, 
+  {
+    "url": "n_PostalCode_popup2.cfm"
+  }, 
+  {
+    "url": "ret.cfm"
+  }, 
+  {
+    "url": "vcore001h_pg.cfm"
+  }, 
+  {
+    "url": "iframe2.cfm"
+  }, 
+  {
+    "url": "mobile.cfm"
+  }, 
+  {
+    "url": "app_popup_public.cfm"
+  }, 
+  {
+    "url": "AjaxStatic.cfm"
+  }, 
+  {
+    "url": "jubilee.cfm"
+  }, 
+  {
+    "url": "init.cfm"
+  }, 
+  {
+    "url": "end_scodejs.cfm"
+  }, 
+  {
+    "url": "clump8.cfm"
+  }, 
+  {
+    "url": "amber_content.cfm"
+  }, 
+  {
+    "url": "_livescoringRightColumn.cfm"
+  }, 
+  {
+    "url": "signup.cfm"
+  }, 
+  {
+    "url": "services.cfm"
+  }, 
+  {
+    "url": "video.cfm"
+  }, 
+  {
+    "url": "browsinghistoryajax.cfm"
+  }, 
+  {
+    "url": "code-blue.cfm"
+  }, 
+  {
+    "url": "domain_profile.cfm"
+  }, 
+  {
+    "url": "main_01.cfm"
+  }, 
+  {
+    "url": "count.cfm"
+  }, 
+  {
+    "url": "weatherPod.cfm"
+  }, 
+  {
+    "url": "common_functions.cfm"
+  }, 
+  {
+    "url": "news_content.cfm"
+  }, 
+  {
+    "url": "fsmvideobox.cfm"
+  }, 
+  {
+    "url": "themes.cfm"
+  }, 
+  {
+    "url": "GetCurrencyByCountyAjax.cfm"
+  }, 
+  {
+    "url": "homerunBaseball.cfm"
+  }, 
+  {
+    "url": "autos.cfm"
+  }, 
+  {
+    "url": "getThumbnail.cfm"
+  }, 
+  {
+    "url": "jsoutputinitrapido.cfm"
+  }, 
+  {
+    "url": "css.cfm"
+  }, 
+  {
+    "url": "inlinejsBody.cfm"
+  }, 
+  {
+    "url": "publicwebinars.cfm"
+  }, 
+  {
+    "url": "scrapbooking.cfm"
+  }, 
+  {
+    "url": "getchatusers.cfm"
+  }, 
+  {
+    "url": "Index.cfm"
+  }, 
+  {
+    "url": "widget_output_forecast.cfm"
+  }, 
+  {
+    "url": "CurrencyAjax.cfm"
+  }, 
+  {
+    "url": "common_js.cfm"
+  }, 
+  {
+    "url": "setracker.cfm"
+  }, 
+  {
+    "url": "PortletPage.cfm"
+  }, 
+  {
+    "url": "widget.cfm"
+  }, 
+  {
+    "url": "processAdblockCounter.cfm"
+  }, 
+  {
+    "url": "blank.cfm"
+  }, 
+  {
+    "url": "track_client_link.cfm"
+  }, 
+  {
+    "url": "pixels.cfm"
+  }, 
+  {
+    "url": "changebanner2-hp.cfm"
+  }, 
+  {
+    "url": "set_clientproperties.cfm"
+  }, 
+  {
+    "url": "dspBrowserCheck.cfm"
+  }, 
+  {
+    "url": "getcheckoutcartinfo.cfm"
+  }, 
+  {
+    "url": "assignCustomerSerivce.cfm"
+  }, 
+  {
+    "url": "laydisplayrapido.cfm"
+  }, 
+  {
+    "url": "orderSummary.cfm"
+  }, 
+  {
+    "url": "menu_data.cfm"
+  }, 
+  {
+    "url": "vaccalarrivaldays.cfm"
+  }, 
+  {
+    "url": "getShareData.cfm"
+  }, 
+  {
+    "url": "store.cfm"
+  }, 
+  {
+    "url": "ajax-event-calendar.cfm"
+  }, 
+  {
+    "url": "impression-update.cfm"
+  }, 
+  {
+    "url": "gen-hdc.cfm"
+  }, 
+  {
+    "url": "menustyles.cfm"
+  }, 
+  {
+    "url": "embed.cfm"
+  }, 
+  {
+    "url": "click_matrix.cfm"
+  }, 
+  {
+    "url": "set_view.cfm"
+  }, 
+  {
+    "url": "q.cfm"
+  }, 
+  {
+    "url": "includeJQueryMigrate.js.cfm"
+  }, 
+  {
+    "url": "radioinfo.cfm"
+  }, 
+  {
+    "url": "profileCouponAug2014.cfm"
+  }, 
+  {
+    "url": "displaybanner.css.cfm"
+  }, 
+  {
+    "url": "r.cfm"
+  }, 
+  {
+    "url": "photo_display.cfm"
+  }, 
+  {
+    "url": "qry_mapLayers.cfm"
+  }, 
+  {
+    "url": "search_data.cfm"
+  }, 
+  {
+    "url": "setCookie.cfm"
+  }, 
+  {
+    "url": "mainnav_commercial.cfm"
+  }, 
+  {
+    "url": "diamondAdsH.cfm"
+  }, 
+  {
+    "url": "vouchers.cfm"
+  }, 
+  {
+    "url": "resolution.cfm"
+  }, 
+  {
+    "url": "page.cfm"
+  }, 
+  {
+    "url": "json.cfm"
+  }, 
+  {
+    "url": "SecLogin.cfm"
+  }, 
+  {
+    "url": "keepAlive.cfm"
+  }, 
+  {
+    "url": "clump4.cfm"
+  }, 
+  {
+    "url": "background_image.cfm"
+  }, 
+  {
+    "url": "typeahead_json.cfm"
+  }, 
+  {
+    "url": "AlertInfoAjax.cfm"
+  }, 
+  {
+    "url": "getFlashAds.cfm"
+  }, 
+  {
+    "url": "jsUnificadoFoot.cfm"
+  }, 
+  {
+    "url": "merchandising_proxy.cfm"
+  }, 
+  {
+    "url": "gts.cfm"
+  }, 
+  {
+    "url": "home.cfm"
+  }, 
+  {
+    "url": "cart.cfm"
+  }, 
+  {
+    "url": "CF_dependant_css.cfm"
+  }, 
+  {
+    "url": "homesuggestion.cfm"
+  }, 
+  {
+    "url": "template.cfm"
+  }, 
+  {
+    "url": "default-hartford.cfm"
+  }, 
+  {
+    "url": "livechat.cfm"
+  }, 
+  {
+    "url": "index.cfm"
+  }, 
+  {
+    "url": "my-forecast-selector.cfm"
+  }, 
+  {
+    "url": "graph.cfm"
+  }, 
+  {
+    "url": "admissions.cfm"
+  }, 
+  {
+    "url": "qry_mapLayerData2.cfm"
+  }, 
+  {
+    "url": "homePage.cfm"
+  }, 
+  {
+    "url": "ajax-testimonials.cfm"
+  }, 
+  {
+    "url": "site_explorer.cfm"
+  }, 
+  {
+    "url": "token.cfm"
+  }, 
+  {
+    "url": "talkOptionsWidget.cfm"
+  }, 
+  {
+    "url": "iframe.cfm"
+  }, 
+  {
+    "url": "wwwLoginPortal.cfm"
+  }, 
+  {
+    "url": "cs-resources.cfm"
+  }, 
+  {
+    "url": "recommended.cfm"
+  }, 
+  {
+    "url": "azalak.cfm"
+  }, 
+  {
+    "url": "inc_sol_urun.cfm"
+  }, 
+  {
+    "url": "include_css.cfm"
+  }, 
+  {
+    "url": "Generate.cfm"
+  }, 
+  {
+    "url": "index2.cfm"
+  }, 
+  {
+    "url": "AppMenu.cfm"
+  }, 
+  {
+    "url": "demo4.cfm"
+  }, 
+  {
+    "url": "b2017.cfm"
+  }, 
+  {
+    "url": "news_Scroll.cfm"
+  }, 
+  {
+    "url": "featuredFaces.cfm"
+  }, 
+  {
+    "url": "alternative_ad_responsive_bottom.cfm"
+  }, 
+  {
+    "url": "tab_skloogs.cfm"
+  }, 
+  {
+    "url": "conectado.cfm"
+  }, 
+  {
+    "url": "my-recent-spots.cfm"
+  }, 
+  {
+    "url": "top_games.cfm"
+  }, 
+  {
+    "url": "aadvantage_loyalty_process.cfm"
+  }, 
+  {
+    "url": "OHIO-fonts-2014.cfm"
+  }, 
+  {
+    "url": "css_menu.cfm"
+  }, 
+  {
+    "url": "mashup-image.cfm"
+  }, 
+  {
+    "url": "opensearch.cfm"
+  }, 
+  {
+    "url": "custom-css.cfm"
+  }, 
+  {
+    "url": "module.cfm"
+  }, 
+  {
+    "url": "jquery_output.cfm"
+  }, 
+  {
+    "url": "logo_box_js.cfm"
+  }, 
+  {
+    "url": "divNews.cfm"
+  }, 
+  {
+    "url": "Player1_jw712.cfm"
+  }, 
+  {
+    "url": "localdata.cfm"
+  }, 
+  {
+    "url": "auctions.cfm"
+  }, 
+  {
+    "url": "free.cfm"
+  }, 
+  {
+    "url": "clump13.cfm"
+  }, 
+  {
+    "url": "redirect.cfm"
+  }, 
+  {
+    "url": "popup.cfm"
+  }, 
+  {
+    "url": "alljs.cfm"
+  }, 
+  {
+    "url": "vbrand010c.cfm"
+  }, 
+  {
+    "url": "new.cfm"
+  }, 
+  {
+    "url": "player_150x130.cfm"
+  }, 
+  {
+    "url": "check_pm.cfm"
+  }, 
+  {
+    "url": "selDataPackage.cfm"
+  }, 
+  {
+    "url": "style.cfm"
+  }, 
+  {
+    "url": "menu_json.cfm"
+  }, 
+  {
+    "url": "isearch3.cfm"
+  }, 
+  {
+    "url": "concern.json.data.cfm"
+  }, 
+  {
+    "url": "index5a1.cfm"
+  }, 
+  {
+    "url": "newsfeeds.cfm"
+  }, 
+  {
+    "url": "loginBox_gp.cfm"
+  }, 
+  {
+    "url": "CampaignServer.cfm"
+  }, 
+  {
+    "url": "amjavascript.cfm"
+  }, 
+  {
+    "url": "ajax_banner.cfm"
+  }, 
+  {
+    "url": "getsettings.cfm"
+  }, 
+  {
+    "url": "index.v2.cfm"
+  }, 
+  {
+    "url": "RecordScreen.cfm"
+  }, 
+  {
+    "url": "getSystemStatus.cfm"
+  }, 
+  {
+    "url": "proxy.cfm"
+  }, 
+  {
+    "url": "recommend_functions.cfm"
+  }, 
+  {
+    "url": "KeepAlive.cfm"
+  }, 
+  {
+    "url": "chat.js.cfm"
+  }, 
+  {
+    "url": "boardboxframe.cfm"
+  }, 
+  {
+    "url": "realestate.cfm"
+  }, 
+  {
+    "url": "jplayer_js.cfm"
+  }, 
+  {
+    "url": "_recent-reviews.cfm"
+  }, 
+  {
+    "url": "checkjs.cfm"
+  }, 
+  {
+    "url": "custom_form.cfm"
+  }, 
+  {
+    "url": "2017rightindexdivtopnews.cfm"
+  }, 
+  {
+    "url": "cdnlog.cfm"
+  }, 
+  {
+    "url": "aimgTrkInit.cfm"
+  }, 
+  {
+    "url": "quickQuote.cfm"
+  }, 
+  {
+    "url": "novobanner.cfm"
+  }, 
+  {
+    "url": "employers.cfm"
+  }, 
+  {
+    "url": "supplies.cfm"
+  }, 
+  {
+    "url": "knitting.cfm"
+  }, 
+  {
+    "url": "deja_vu_bloc.cfm"
+  }, 
+  {
+    "url": "public_css.cfm"
+  }, 
+  {
+    "url": "allcss.cfm"
+  }, 
+  {
+    "url": "one_pix.cfm"
+  }, 
+  {
+    "url": "profileVideo.cfm"
+  }, 
+  {
+    "url": "jobs.cfm"
+  }, 
+  {
+    "url": "aktv_getimage.cfm"
+  }, 
+  {
+    "url": "alertCount.cfm"
+  }, 
+  {
+    "url": "weather-proxy.cfm"
+  }, 
+  {
+    "url": "adserver.cfm"
+  }, 
+  {
+    "url": "controller.cfm"
+  }, 
+  {
+    "url": "crosdomain.cfm"
+  }, 
+  {
+    "url": "Deals.cfm"
+  }, 
+  {
+    "url": "loginBox.cfm"
+  }, 
+  {
+    "url": "startseite.cfm"
+  }, 
+  {
+    "url": "sponsoredevents.frag.cfm"
+  }, 
+  {
+    "url": "widgetdata.cfm"
+  }, 
+  {
+    "url": "ntp.cfm"
+  }, 
+  {
+    "url": "sfwidget.cfm"
+  }, 
+  {
+    "url": "forward.cfm"
+  }, 
+  {
+    "url": "jsservicedata.cfm"
+  }, 
+  {
+    "url": "_favourites_bar.cfm"
+  }, 
+  {
+    "url": "agol.cfm"
+  }, 
+  {
+    "url": "fpcallout.cfm"
+  }, 
+  {
+    "url": "press-releases.cfm"
+  }, 
+  {
+    "url": "lead-form-uuid.cfm"
+  }, 
+  {
+    "url": "intranet.cfm"
+  }, 
+  {
+    "url": "widget_surfnews_api.cfm"
+  }, 
+  {
+    "url": "data.cfm"
+  }, 
+  {
+    "url": "sp_tracker.cfm"
+  }, 
+  {
+    "url": "javascript.cfm"
+  }, 
+  {
+    "url": "fmMap.cfm"
+  }, 
+  {
+    "url": "getbanner.cfm"
+  }, 
+  {
+    "url": "showphoto.cfm"
+  }, 
+  {
+    "url": "getCountrylist.cfm"
+  }, 
+  {
+    "url": "checkCurrency.cfm"
+  }, 
+  {
+    "url": "clump12.cfm"
+  }, 
+  {
+    "url": "wkcheck.js.cfm"
+  }, 
+  {
+    "url": "pazintys_160x600.cfm"
+  }, 
+  {
+    "url": "announcements.cfm"
+  }, 
+  {
+    "url": "rss.cfm"
+  }, 
+  {
+    "url": "get_mustache_templates.cfm"
+  }, 
+  {
+    "url": "webalert.cfm"
+  }, 
+  {
+    "url": "jplagium.cfm"
+  }, 
+  {
+    "url": "getUserGroups.cfm"
+  }, 
+  {
+    "url": "clump7.cfm"
+  }, 
+  {
+    "url": "events.cfm"
+  }, 
+  {
+    "url": "_cookietestAjax.cfm"
+  }, 
+  {
+    "url": "chatengine.cfm"
+  }, 
+  {
+    "url": "Calendar.cfm"
+  }, 
+  {
+    "url": "pazintys_280x300.cfm"
+  }, 
+  {
+    "url": "evcert.cfm"
+  }, 
+  {
+    "url": "default.cfm"
+  }, 
+  {
+    "url": "eventos-acontece.cfm"
+  }, 
+  {
+    "url": "screensize.cfm"
+  }, 
+  {
+    "url": "monitorUptime.cfm"
+  }, 
+  {
+    "url": "alumni.cfm"
+  }, 
+  {
+    "url": "flight_v7_frontpage_300x250.cfm"
+  }, 
+  {
+    "url": "get-jsonp.cfm"
+  }, 
+  {
+    "url": "bookmark.cfm"
+  }, 
+  {
+    "url": "video_content.cfm"
+  }, 
+  {
+    "url": "tab.cfm"
+  }, 
+  {
+    "url": "ajax_global.cfm"
+  }, 
+  {
+    "url": "trackorder.cfm"
+  }, 
+  {
+    "url": "getportalsession.cfm"
+  }, 
+  {
+    "url": "booktplh.cfm"
+  }, 
+  {
+    "url": "getSchoolPicture.cfm"
+  }, 
+  {
+    "url": "isauth.cfm"
+  }, 
+  {
+    "url": "cookiemanager.cfm"
+  }, 
+  {
+    "url": "country_selection.cfm"
+  }, 
+  {
+    "url": "sitemap.cfm"
+  }, 
+  {
+    "url": "begin_scodejs.cfm"
+  }, 
+  {
+    "url": "serve.cfm"
+  }, 
+  {
+    "url": "ajax_getRkzy.cfm"
+  }, 
+  {
+    "url": "_gtmAndDataLayer.cfm"
+  }, 
+  {
+    "url": "error404.cfm"
+  }, 
+  {
+    "url": "mdx_physdirectory_AJAX.cfm"
+  }, 
+  {
+    "url": "help.cfm"
+  }, 
+  {
+    "url": "variabili_lingua.cfm"
+  }, 
+  {
+    "url": "menu_items.cfm"
+  }, 
+  {
+    "url": "liste_produits_vus.cfm"
+  }, 
+  {
+    "url": "thumber.cfm"
+  }, 
+  {
+    "url": "api.cfm"
+  }, 
+  {
+    "url": "img.cfm"
+  }, 
+  {
+    "url": "portal.cfm"
+  }, 
+  {
+    "url": "ajax_outils.cfm"
+  }, 
+  {
+    "url": "clump11.cfm"
+  }, 
+  {
+    "url": "bannerlibro.cfm"
+  }, 
+  {
+    "url": "getHomePageAlerts.cfm"
+  }, 
+  {
+    "url": "iab.cfm"
+  }, 
+  {
+    "url": "jscript.cfm"
+  }, 
+  {
+    "url": "about.cfm"
+  }, 
+  {
+    "url": "scrolling_chrome.cfm"
+  }, 
+  {
+    "url": "get_temi.cfm"
+  }, 
+  {
+    "url": "_ajax_get_querystring.cfm"
+  }, 
+  {
+    "url": "form.cfm"
+  }, 
+  {
+    "url": "ads.cfm"
+  }, 
+  {
+    "url": "auth.cfm"
+  }, 
+  {
+    "url": "bdbstatus.cfm"
+  }, 
+  {
+    "url": "_flash_b_js.cfm"
+  }, 
+  {
+    "url": "logInOut_btn_iFramed.cfm"
+  }, 
+  {
+    "url": "Combine.cfm"
+  }, 
+  {
+    "url": "miAreaPrivada.cfm"
+  }, 
+  {
+    "url": "IF_ReaderCountALL.cfm"
+  }, 
+  {
+    "url": "getCurrencySymbols.cfm"
+  }, 
+  {
+    "url": "inc_ad.cfm"
+  }, 
+  {
+    "url": "featuredPartner.cfm"
+  }, 
+  {
+    "url": "set_timezone.cfm"
+  }, 
+  {
+    "url": "tr_Engine.cfm"
+  }, 
+  {
+    "url": "ad.js.cfm"
+  }, 
+  {
+    "url": "one_pixE.cfm"
+  }, 
+  {
+    "url": "inc-mobile-FVDS-Loader.cfm"
+  }, 
+  {
+    "url": "adView.cfm"
+  }, 
+  {
+    "url": "classifieds.cfm"
+  }, 
+  {
+    "url": "player1.cfm"
+  }, 
+  {
+    "url": "share_cart.cfm"
+  }, 
+  {
+    "url": "mainnav_home.cfm"
+  }, 
+  {
+    "url": "cmstoolbar.cfm"
+  }, 
+  {
+    "url": "imp.cfm"
+  }, 
+  {
+    "url": "embedSmall.cfm"
+  }, 
+  {
+    "url": "tracking_s.cfm"
+  }, 
+  {
+    "url": "calendar_content.cfm"
+  }, 
+  {
+    "url": "play.cfm"
+  }, 
+  {
+    "url": "youarehere.cfm"
+  }, 
+  {
+    "url": "getshowad.cfm"
+  }, 
+  {
+    "url": "occasions.cfm"
+  }, 
+  {
+    "url": "gettop.cfm"
+  }, 
+  {
+    "url": "cr64a.cfm"
+  }, 
+  {
+    "url": "AASC10111.cfm"
+  }, 
+  {
+    "url": "getUniqueCookie.cfm"
+  }, 
+  {
+    "url": "agile_carousel_data.cfm"
+  }, 
+  {
+    "url": "nqcontent.cfm"
+  }, 
+  {
+    "url": "widget_fotoslectores.cfm"
+  }, 
+  {
+    "url": "ajaxInfo.cfm"
+  }, 
+  {
+    "url": "visiteajax.cfm"
+  }, 
+  {
+    "url": "html.cfm"
+  }, 
+  {
+    "url": "stylesheet-pods.cfm"
+  }, 
+  {
+    "url": "ajax_checkConfirmationRequiredCookie.cfm"
+  }, 
+  {
+    "url": "widget_forecast_horizontal.cfm"
+  }, 
+  {
+    "url": "rotator.cfm"
+  }, 
+  {
+    "url": "combine.cfm"
+  }, 
+  {
+    "url": "cck.cfm"
+  }, 
+  {
+    "url": "clump1.cfm"
+  }, 
+  {
+    "url": "showCounts.cfm"
+  }, 
+  {
+    "url": "xml.cfm"
+  }, 
+  {
+    "url": "gare_future.cfm"
+  }, 
+  {
+    "url": "footer_js.cfm"
+  }, 
+  {
+    "url": "visited_objects_list_rpc.cfm"
+  }, 
+  {
+    "url": "_ad.server.cfm"
+  }, 
+  {
+    "url": "failoverTest.cfm"
+  }, 
+  {
+    "url": "arrow.cfm"
+  }, 
+  {
+    "url": "getfascia_bubbles.cfm"
+  }, 
+  {
+    "url": "ajaxFacade.cfm"
+  }, 
+  {
+    "url": "ap.cfm"
+  }, 
+  {
+    "url": "jurisprudencia_reciente.cfm"
+  }, 
+  {
+    "url": "tutorials.cfm"
+  }, 
+  {
+    "url": "AdRotatorH.cfm"
+  }, 
+  {
+    "url": "testimonialsall.cfm"
+  }, 
+  {
+    "url": "intro.cfm"
+  }, 
+  {
+    "url": "frmLoginRemote.cfm"
+  }, 
+  {
+    "url": "AJAX_GroupSale.cfm"
+  }, 
+  {
+    "url": "insta_products.cfm"
+  }, 
+  {
+    "url": "all_javascripts.cfm"
+  }, 
+  {
+    "url": "StuntPopupDisplay.cfm"
+  }, 
+  {
+    "url": "adscript.cfm"
+  }, 
+  {
+    "url": "autocompletedata.cfm"
+  }, 
+  {
+    "url": "google_alternate_ad_728x90.cfm"
+  }, 
+  {
+    "url": "gallery.cfm"
+  }, 
+  {
+    "url": "widget_output_surfnews.cfm"
+  }, 
+  {
+    "url": "read.cfm"
+  }, 
+  {
+    "url": "login1.cfm"
+  }, 
+  {
+    "url": "wbs-social-cached.cfm"
+  }, 
+  {
+    "url": "stats.cfm"
+  }, 
+  {
+    "url": "weather_content.cfm"
+  }, 
+  {
+    "url": "tr_Lib.cfm"
+  }, 
+  {
+    "url": "getfascia_mosaic.cfm"
+  }, 
+  {
+    "url": "basket_ajax.cfm"
+  }, 
+  {
+    "url": "facade.cfm"
+  }, 
+  {
+    "url": "sw.cfm"
+  }, 
+  {
+    "url": "base.js.cfm"
+  }, 
+  {
+    "url": "tracking.cfm"
+  }, 
+  {
+    "url": "inc-homepage-featured-vid.cfm"
+  }, 
+  {
+    "url": "athletics.cfm"
+  }, 
+  {
+    "url": "emergency.cfm"
+  }, 
+  {
+    "url": "weather.cfm"
+  }, 
+  {
+    "url": "arc.cfm"
+  }, 
+  {
+    "url": "banners150x150.cfm"
+  }, 
+  {
+    "url": "genericoExecutar.cfm"
+  }, 
+  {
+    "url": "get_later.cfm"
+  }, 
+  {
+    "url": "featuredProduct_BC.cfm"
+  }, 
+  {
+    "url": "bundle.cfm"
+  }, 
+  {
+    "url": "tipshowc.cfm"
+  }, 
+  {
+    "url": "loginPage.cfm"
+  }, 
+  {
+    "url": "achat-armes-fusils-carabines-chasse.cfm"
+  }, 
+  {
+    "url": "bblaster.cfm"
+  }, 
+  {
+    "url": "profile.cfm"
+  }, 
+  {
+    "url": "gentoken.cfm"
+  }, 
+  {
+    "url": "queue.cfm"
+  }, 
+  {
+    "url": "home_right.cfm"
+  }, 
+  {
+    "url": "timevariable.cfm"
+  }, 
+  {
+    "url": "fmonitor.cfm"
+  }, 
+  {
+    "url": "papercraft.cfm"
+  }, 
+  {
+    "url": "ajaxCountry.cfm"
+  }, 
+  {
+    "url": "countyPortal.cfm"
+  }, 
+  {
+    "url": "_home.cfm"
+  }, 
+  {
+    "url": "armurerie-en-ligne.cfm"
+  }
+]

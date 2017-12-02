@@ -1,0 +1,3 @@
+BigQuery error in query operation: Error processing job
+'crunchbox-160315:bqjob_r2bdad48faac078a3_0000015f8e68aab5_1': Invalid table
+name: {1}

@@ -1,0 +1,60 @@
+
+[
+  {
+    "url": "login.jspa"
+  }, 
+  {
+    "url": "stockq.jspa"
+  }, 
+  {
+    "url": "render-widget.jspa"
+  }, 
+  {
+    "url": "hotsellers.jspa"
+  }, 
+  {
+    "url": "checkMobileStatus.jspa"
+  }, 
+  {
+    "url": "index.jspa"
+  }, 
+  {
+    "url": "fundtoplist.jspa"
+  }, 
+  {
+    "url": "areaDefault.jspa"
+  }, 
+  {
+    "url": "rankhotsale_people.jspa"
+  }, 
+  {
+    "url": "showfiance.jspa"
+  }, 
+  {
+    "url": "ajax-menuCounts.jspa"
+  }, 
+  {
+    "url": "jsonHeaderInfoWithCart.jspa"
+  }, 
+  {
+    "url": "MyJiraHome.jspa"
+  }, 
+  {
+    "url": "smart-panels.jspa"
+  }, 
+  {
+    "url": "userInfo.jspa"
+  }, 
+  {
+    "url": "getBasicUserInfo.jspa"
+  }, 
+  {
+    "url": "ajaxFundInfo.jspa"
+  }, 
+  {
+    "url": "getCount.jspa"
+  }, 
+  {
+    "url": "guessYourLike.jspa"
+  }
+]
