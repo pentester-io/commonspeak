@@ -1,4 +1,4 @@
-![](https://i.imgur.com/ANSqOBE.png)
+![](https://i.imgur.com/ANSqOBE.png | width=140)
 ==
 
 Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform. By performing queries on large datasets that are updated frequently, commonspeak is able to generate wordlists that are "evolutionary", in the sense that they reflect the newest trends on the internet.
