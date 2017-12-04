@@ -1,9 +1,8 @@
 <img src="https://i.imgur.com/ANSqOBE.png" width="350">
-==
 
 Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform. By performing queries on large datasets that are updated frequently, commonspeak is able to generate wordlists that are "evolutionary", in the sense that they reflect the newest trends on the internet.
 
-Commonspeak was made to generate content discovery and subdomain wordlists for use in application security testing. More details about this tool can be found here: {BLOG}
+Commonspeak was made to generate content discovery and subdomain wordlists for use in application security testing. More details about this tool can be found [here](https://pentester.io/commonspeak-bigquery-wordlists/).
 
 Requirements
 ----
@@ -11,11 +10,19 @@ Requirements
 * Google Cloud SDK (https://cloud.google.com/sdk/docs/)
 * Google Cloud Account (https://cloud.google.com/storage/docs/gsutil_install#authenticate)
 
-Installation
+Instructions
 ----
-Simply clone the repository:
+- Install jq (`sudo apt-get install jq` or `brew install jq`)
+- Clone the repository:
 
     git clone https://github.com/pentest-io/commonspeak
+
+- Install Google Cloud SDK
+- Create a Google Cloud project to use with BigQuery (mine was named crunchbox-160315)
+- `cd` to the dataset you would like to pull down: `cd commonspeak/hackernews`
+- Run the bash script, specifying the project name as the first argument: `bash hackernews-subdomains.sh crunchbox-160315`
+
+The output will be located in `commonspeak/hackernews/output/compiled`
 
 Features
 ----
