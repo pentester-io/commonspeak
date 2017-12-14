@@ -20,5 +20,5 @@ echo -e "\n* Extracting subdomains from all URLs to $datasetname.urls_subdomains
 bq query --replace --format=prettyjson --use_legacy_sql=false --project_id=$projectname --destination_table=${datasetname}.urls_subdomains --n=10000000 "$subdomainquery" > output/json/${datasetname}.urls_subdomains.json
 
 echo -e "\n* Parsing results and saving to output/compiled/${datasetname}.urls_subdomains.txt"
-jq -r '.[]["url"]' < output/json/${datasetname}.urls_subdomains.json > output/compiled/${datasetname}.urls_subdomains.txt
+jq -r '.[]["subdomain"]' < output/json/${datasetname}.urls_subdomains.json > output/compiled/${datasetname}.urls_subdomains.txt
 echo -e "\n* Compiled $(wc -l < output/compiled/${datasetname}.urls_subdomains.txt) subdomains"
